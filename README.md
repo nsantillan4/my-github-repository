@@ -2,4 +2,4 @@
 READMME.md file was edited manually
 
 
-This line is modified locally.
+This line was modified manually during conflicts resolution
